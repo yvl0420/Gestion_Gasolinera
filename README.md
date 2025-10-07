@@ -12,7 +12,7 @@ API desarrollada en **Spring Boot** para gestionar las operaciones de una gasoli
 - Persistencia con base de datos relacional.  
 ---
 
-## 🧰 Tecnologías usadas
+## Tecnologías usadas
 
 - **Java** + **Spring Boot**  
 - **Spring Data JPA** para acceso a base de datos  
